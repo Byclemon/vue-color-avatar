@@ -20,6 +20,18 @@
       {{ locale === Locale.EN ? '简体中文' : 'English' }}
     </div>
 
+     <div class="divider">|</div>
+    <div>
+      <a
+        class="link"
+        href="https://github.com/Codennnn/vue-color-avatar"
+        target="_blank"
+        rel="nofollow noopener noreferrer"
+      >
+        GitHub
+      </a>
+    </div>
+
   
   </footer>
 </template>

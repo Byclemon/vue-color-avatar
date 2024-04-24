@@ -3,8 +3,7 @@
     <Logo />
 
     <h2 class="site-title">Color Avatar</h2>
-
-    <div class="header-right">
+<!-- <div class="header-right">
       <a
         href="https://github.com/Codennnn/vue-color-avatar"
         target="_blank"
@@ -23,7 +22,7 @@
           <span class="text">GitHub</span>
         </button>
       </a>
-    </div>
+    </div> -->
   </header>
 </template>
 
